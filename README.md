@@ -1,7 +1,7 @@
 ## Hello
 
 I'm Charlot Shaw, also known as Sparrows.
-I'm principally a Clojure developper, based out of Minnesota, USA.
+I'm principally a Clojure developer, based out of Minnesota, USA.
 
 <!--
 **charlot-shaw/charlot-shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
