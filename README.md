@@ -3,6 +3,8 @@
 I'm Charlot Shaw, also known as Sparrows.
 I'm principally a Clojure developer, based out of Minnesota, USA.
 
+My student account is [Unwary Sage](https://github.com/unwarysage), and I'm making a professional account here.
+
 <!--
 **charlot-shaw/charlot-shaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
